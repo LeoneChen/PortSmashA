@@ -1,0 +1,3 @@
+[submodule "arachne-all"]
+	path = arachne-all
+	url = https://github.com/PlatformLab/arachne-all.git
